@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Blade Dance API Banner" width="100%" />
+  <img src="banner.png" alt="Blade Dance API Banner" width="600" />
 </p>
 
 <h1 align="center">⚔️ Blade Dance API</h1>
