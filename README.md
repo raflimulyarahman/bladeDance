@@ -9,16 +9,6 @@
   An identity-aware API service for Injective blockchain data — powered by N1NJ4 identity.
 </p>
 
-<p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#problem-statement">Problem</a> •
-  <a href="#solution">Solution</a> •
-  <a href="#technology-stack">Tech Stack</a> •
-  <a href="#system-architecture">Architecture</a> •
-  <a href="#api-endpoints">API</a> •
-  <a href="#setup-instructions">Setup</a>
-</p>
-
 ---
 
 ## Table of Contents
