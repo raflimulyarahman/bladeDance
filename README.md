@@ -5,7 +5,7 @@
 <h1 align="center">⚔️ Blade Dance API</h1>
 
 <p align="center">
-  <strong>Built for Injective, by Injective.</strong><br/>
+  <strong>Built for Injective, by hokaPI.</strong><br/>
   An identity-aware API service for Injective blockchain data — powered by N1NJ4 identity.
 </p>
 
